@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <hrad>
+        <table table border="1" bgcolor="red" style="width: 500px">
+            <tr>
+                <td></td>
+                <td rowspan="2"></td>
+                <td rowspan="2">2</td>
+                <td rowspan="2" colspan="2">4</td>
+            <tr>
+            <tr>
+                <td>6</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td rowspan="2" colspan="2">12</td>
+                <td rowspan="2"></td>
+                <td rowspan="2">15</td>
+                <tr>
+                    <td>16</td>
+                </tr>
+                <tr>
+                    <td>21</td>
+                    <td colspan="2">22</td>
+                    <td colspan="2" rowspan="2">21</td>
+                </tr>
+                <tr>
+                    <td rowspan="2">26</td>
+                    <td colspan="2">27</td>
+                </tr>
+                <td colspan="2">32</td>
+                <td colspan="2">34</td>
+            </tr>
+        </table>
+    </hrad>
+</html>
